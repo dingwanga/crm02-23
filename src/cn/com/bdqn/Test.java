@@ -6,6 +6,7 @@ public class Test {
 		
 		System.out.println("hello,git");
 		System.out.println("hello,git服务器修改");
+		System.out.println("hello,git服务器修改02");
 	}
 
 }
